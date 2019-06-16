@@ -3,11 +3,12 @@ To Do List App using Node.js + MongoDB & Mongoose
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Simple To Do List, generating a list of item.
+
 
 ## Built With
 * [Node.js](https://nodejs.org/en/about/)
-* [Express](https://expressjs.com/)
+* [Express.js](https://expressjs.com/) + ExpressJS routing
 * [EJS](https://ejs.co/)
 * [MongoDB](https://www.mongodb.com/)
 * [Mongoose](https://mongoosejs.com/docs/index.html)
