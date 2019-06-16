@@ -3,7 +3,7 @@ To Do List App using Node.js + MongoDB & Mongoose
 
 ## Getting Started
 
-Simple To Do List, generating a list of item.
+Simple To Do List, generating a list of items.
 
 
 ## Built With
