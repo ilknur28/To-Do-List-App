@@ -2,9 +2,9 @@
 Simple To Do List App generating a list of items.
 
 ## Functions:
-#### - Add
-#### - Delete
-#### - Create new To-Do List by simple typing new name in the URL.
+#### * Add
+#### * Delete
+#### * Create new To-Do List by simple typing new name in the URL.
 
 ## Built With
 * [Node.js](https://nodejs.org/en/about/)
